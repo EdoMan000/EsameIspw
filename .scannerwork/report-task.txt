@@ -1,0 +1,7 @@
+organization=edoman000
+projectKey=EdoMan000_EsameIspw
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.29762
+dashboardUrl=https://sonarcloud.io/dashboard?id=EdoMan000_EsameIspw
+ceTaskId=AYGAEF7D_MXh3w7EPj6R
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYGAEF7D_MXh3w7EPj6R

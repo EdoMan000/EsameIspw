@@ -1,0 +1,2 @@
+	EsameIspw : 	
+B*&https://github.com/EdoMan000/EsameIspwB-)https://travis-ci.org/EdoMan000/EsameIspwB1-https://github.com/EdoMan000/EsameIspw/issuesB*&https://github.com/EdoMan000/EsameIspwREdoMan000_EsameIspw
